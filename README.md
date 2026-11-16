@@ -53,7 +53,7 @@ Se a condição for verdadeira, o par é armazenado como uma solução.
 3. No terminal, execute (ajustando o nome do arquivo, se necessário):
 
 ```bash
-python desafio.py
+python challenge.py
 ```
 
 Não é necessário instalar dependências adicionais.
